@@ -1,0 +1,2 @@
+runcircuit: 0.3972045
+ 57.027934 seconds (58.36 M allocations: 31.953 GiB, 10.94% gc time, 0.26% compilation time)
