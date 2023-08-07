@@ -1,3 +1,5 @@
 finitediff - implemented forward finite differences by hand (will try to figure out how to use julia finitedifferences package later) to calculate gradients and make a working model
 
-GANtricks - discriminator loss gets close to 0, so implemented some modifications from https://github.com/soumith/ganhacks
+GANtricks - discriminator loss gets close to 0, so implemented some modifications from https://github.com/soumith/ganhacks and https://developers.google.com/machine-learning/gan/problems
+
+in particular: 
