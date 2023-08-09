@@ -1,0 +1,3 @@
+\beamer@sectionintoc {1}{Generative Modeling}{2}{0}{1}
+\beamer@sectionintoc {2}{Matchgate Circuits}{8}{0}{2}
+\beamer@sectionintoc {3}{Putting it all together}{15}{0}{3}
