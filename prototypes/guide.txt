@@ -3,3 +3,5 @@ finitediff - implemented forward finite differences by hand (will try to figure 
 GANtricks - discriminator loss gets close to 0, so implemented some modifications from https://github.com/soumith/ganhacks and https://developers.google.com/machine-learning/gan/problems
 
 in particular: 
+
+learnIdentity - pprior samples from the real data; want G to learn identity mapping
