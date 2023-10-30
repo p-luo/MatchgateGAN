@@ -1,0 +1,2 @@
+document code in the documented folder
+sort through prototypes folder and make files that i can edit vs ones that i should keep untouched

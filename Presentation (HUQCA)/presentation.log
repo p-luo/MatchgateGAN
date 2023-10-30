@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.9.9)  24 SEP 2023 16:23
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.9.9)  25 SEP 2023 18:33
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -763,33 +763,33 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 \c@wirenumberpermute=\count356
 )
-LaTeX Font Info:    Trying to load font information for T1+zplTLF on input line 32.
+LaTeX Font Info:    Trying to load font information for T1+zplTLF on input line 33.
  (/usr/local/texlive/2023/texmf-dist/tex/latex/newpx/t1zpltlf.fd
 File: t1zpltlf.fd 2021/05/25 v1.0 font definition file for T1/zpl/TLF
 )
 LaTeX Font Info:    Font shape `T1/zplTLF/m/n' will be
-(Font)              scaled to size 10.95pt on input line 32.
+(Font)              scaled to size 10.95pt on input line 33.
  (./presentation.aux)
 \openout1 = `presentation.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -844,7 +844,7 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 48
  (/usr/local/texlive/2023/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 ))
-Package hyperref Info: Link coloring OFF on input line 32.
+Package hyperref Info: Link coloring OFF on input line 33.
  (./presentation.out) (./presentation.out)
 \@outlinefile=\write5
 \openout5 = `presentation.out'.
@@ -866,60 +866,60 @@ Dictionary: translator-theorem-dictionary, Language: English
 \c@mv@boldtabular=\count364
  (./presentation.nav)
 LaTeX Font Info:    Font shape `T1/zplTLF/m/n' will be
-(Font)              scaled to size 6.0pt on input line 32.
+(Font)              scaled to size 6.0pt on input line 33.
 LaTeX Font Info:    Font shape `T1/zplTLF/m/n' will be
-(Font)              scaled to size 14.4pt on input line 34.
+(Font)              scaled to size 14.4pt on input line 35.
 LaTeX Font Info:    Font shape `T1/zplTLF/m/n' will be
-(Font)              scaled to size 8.0pt on input line 34.
+(Font)              scaled to size 8.0pt on input line 35.
 LaTeX Font Info:    Font shape `T1/zplTLF/m/n' will be
-(Font)              scaled to size 4.0pt on input line 34.
+(Font)              scaled to size 4.0pt on input line 35.
  [1{/usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/newtx/ntx-ec-tlf.enc}
 
 ]
-<NN.png, id=160, 402.50375pt x 412.54124pt>
+<NN.png, id=203, 402.50375pt x 412.54124pt>
 File: NN.png Graphic file (type png)
 <use NN.png>
-Package pdftex.def Info: NN.png  used on input line 48.
+Package pdftex.def Info: NN.png  used on input line 49.
 (pdftex.def)             Requested size: 136.91603pt x 140.3251pt.
  [2
 
  <./NN.png>]
-<sigmoid.png, id=228, 1204.5pt x 803.0pt>
+<sigmoid.png, id=287, 1204.5pt x 803.0pt>
 File: sigmoid.png Graphic file (type png)
 <use sigmoid.png>
-Package pdftex.def Info: sigmoid.png  used on input line 61.
+Package pdftex.def Info: sigmoid.png  used on input line 62.
 (pdftex.def)             Requested size: 188.26346pt x 125.50519pt.
  [3
 
  <./sigmoid.png>]
-<gd.png, id=299, 694.595pt x 388.45125pt>
+<gd.png, id=374, 694.595pt x 388.45125pt>
 File: gd.png Graphic file (type png)
 <use gd.png>
-Package pdftex.def Info: gd.png  used on input line 78.
+Package pdftex.def Info: gd.png  used on input line 79.
 (pdftex.def)             Requested size: 171.14764pt x 95.71373pt.
  [4
 
  <./gd.png>]
-<MNIST.png, id=366, 357.0138pt x 281.1303pt>
+<MNIST.png, id=458, 357.0138pt x 281.1303pt>
 File: MNIST.png Graphic file (type png)
 <use MNIST.png>
-Package pdftex.def Info: MNIST.png  used on input line 93.
+Package pdftex.def Info: MNIST.png  used on input line 94.
 (pdftex.def)             Requested size: 136.91603pt x 107.81725pt.
  [5
 
  <./MNIST.png>]
-<GANs.png, id=433, 1217.54875pt x 530.98375pt>
+<GANs.png, id=540, 1217.54875pt x 530.98375pt>
 File: GANs.png Graphic file (type png)
 <use GANs.png>
-Package pdftex.def Info: GANs.png  used on input line 107.
+Package pdftex.def Info: GANs.png  used on input line 108.
 (pdftex.def)             Requested size: 239.60567pt x 104.49341pt.
  [6
 
  <./GANs.png>]
-<neglog.png, id=501, 169.63374pt x 292.09125pt>
+<neglog.png, id=625, 169.63374pt x 292.09125pt>
 File: neglog.png Graphic file (type png)
 <use neglog.png>
-Package pdftex.def Info: neglog.png  used on input line 125.
+Package pdftex.def Info: neglog.png  used on input line 126.
 (pdftex.def)             Requested size: 51.3422pt x 88.40355pt.
  [7
 
@@ -934,54 +934,79 @@ Package pdftex.def Info: neglog.png  used on input line 125.
 ] [12
 
 ]
-<pqc.png, id=893, 144.54pt x 73.9563pt>
+<pqc.png, id=1113, 144.54pt x 73.9563pt>
 File: pqc.png Graphic file (type png)
 <use pqc.png>
-Package pdftex.def Info: pqc.png  used on input line 240.
+Package pdftex.def Info: pqc.png  used on input line 242.
 (pdftex.def)             Requested size: 239.60567pt x 122.60489pt.
  [13
 
- <./pqc.png>]
-<output.png, id=959, 453.1329pt x 312.2064pt>
+ <./pqc.png>] [14
+
+]
+<output.png, id=1277, 453.1329pt x 312.2064pt>
 File: output.png Graphic file (type png)
 <use output.png>
-Package pdftex.def Info: output.png  used on input line 254.
+Package pdftex.def Info: output.png  used on input line 270.
 (pdftex.def)             Requested size: 171.14764pt x 117.92032pt.
- [14
-
- <./output.png>]
-<setup.png, id=1026, 963.6pt x 451.6875pt>
-File: setup.png Graphic file (type png)
-<use setup.png>
-Package pdftex.def Info: setup.png  used on input line 271.
-(pdftex.def)             Requested size: 239.60567pt x 112.31508pt.
  [15
 
- <./setup.png>]
-<hyh.png, id=1092, 1104.125pt x 788.9475pt>
-File: hyh.png Graphic file (type png)
-<use hyh.png>
-Package pdftex.def Info: hyh.png  used on input line 297.
-(pdftex.def)             Requested size: 102.68962pt x 73.37376pt.
-<yelin.png, id=1093, 220.825pt x 220.825pt>
-File: yelin.png Graphic file (type png)
-<use yelin.png>
-Package pdftex.def Info: yelin.png  used on input line 297.
-(pdftex.def)             Requested size: 61.6144pt x 61.61156pt.
-<yelingroup.jpg, id=1094, 4047.12pt x 3035.34pt>
-File: yelingroup.jpg Graphic file (type jpg)
-<use yelingroup.jpg>
-Package pdftex.def Info: yelingroup.jpg  used on input line 297.
-(pdftex.def)             Requested size: 102.68962pt x 76.97635pt.
- [16
+ <./output.png>] [16
 
- <./hyh.png> <./yelin.png> <./yelingroup.jpg>]
-<thumbsup.png, id=1160, 863.225pt x 633.36626pt>
+] [17
+
+] [18
+
+] [19
+
+]
+<setup.png, id=1683, 963.6pt x 451.6875pt>
+File: setup.png Graphic file (type png)
+<use setup.png>
+Package pdftex.def Info: setup.png  used on input line 339.
+(pdftex.def)             Requested size: 239.60567pt x 112.31508pt.
+ [20
+
+ <./setup.png>] [21
+
+]
+<HongYe.png, id=1846, 620.3175pt x 164.615pt>
+File: HongYe.png Graphic file (type png)
+<use HongYe.png>
+Package pdftex.def Info: HongYe.png  used on input line 360.
+(pdftex.def)             Requested size: 273.83728pt x 72.66693pt.
+<Yelin.png, id=1847, 754.82pt x 203.76125pt>
+File: Yelin.png Graphic file (type png)
+<use Yelin.png>
+Package pdftex.def Info: Yelin.png  used on input line 360.
+(pdftex.def)             Requested size: 273.83728pt x 73.91985pt.
+ [22
+
+ <./HongYe.png> <./Yelin.png>]
+<Jorge.png, id=1930, 277.035pt x 391.4625pt>
+File: Jorge.png Graphic file (type png)
+<use Jorge.png>
+Package pdftex.def Info: Jorge.png  used on input line 370.
+(pdftex.def)             Requested size: 109.537pt x 154.7783pt.
+<Fiona.png, id=1931, 277.035pt x 341.275pt>
+File: Fiona.png Graphic file (type png)
+<use Fiona.png>
+Package pdftex.def Info: Fiona.png  used on input line 370.
+(pdftex.def)             Requested size: 109.537pt x 134.93492pt.
+<Victoria.png, id=1932, 276.03125pt x 345.29pt>
+File: Victoria.png Graphic file (type png)
+<use Victoria.png>
+Package pdftex.def Info: Victoria.png  used on input line 370.
+(pdftex.def)             Requested size: 109.537pt x 137.02292pt.
+ [23
+
+ <./Jorge.png> <./Fiona.png> <./Victoria.png>]
+<thumbsup.png, id=2017, 863.225pt x 633.36626pt>
 File: thumbsup.png Graphic file (type png)
 <use thumbsup.png>
-Package pdftex.def Info: thumbsup.png  used on input line 306.
+Package pdftex.def Info: thumbsup.png  used on input line 379.
 (pdftex.def)             Requested size: 171.14764pt x 125.56926pt.
- [17
+ [24
 
  <./thumbsup.png>]
 \tf@nav=\write6
@@ -999,21 +1024,21 @@ LaTeX2e <2023-06-01> patch level 1
 L3 programming layer <2023-08-29>
  ***********
 Package rerunfilecheck Info: File `presentation.out' has not changed.
-(rerunfilecheck)             Checksum: ABA7E13FC52D791DAC77B59F059394C0;444.
+(rerunfilecheck)             Checksum: 3868B956A72334B97111BF9C0DD5AAFA;613.
  ) 
 Here is how much of TeX's memory you used:
- 30365 strings out of 474934
- 626182 string characters out of 5759812
- 1945807 words of memory out of 5000000
- 51212 multiletter control sequences out of 15000+600000
+ 30416 strings out of 474934
+ 626818 string characters out of 5759812
+ 1949807 words of memory out of 5000000
+ 51248 multiletter control sequences out of 15000+600000
  581710 words of font info for 70 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  128i,19n,123p,1262b,798s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmib10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cmextra/cmmib8.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/newpx/zplr.pfb>
-Output written on presentation.pdf (17 pages, 2639867 bytes).
+</usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmib10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cmextra/cmmib8.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/newpx/zplr.pfb>
+Output written on presentation.pdf (24 pages, 2378484 bytes).
 PDF statistics:
- 1267 PDF objects out of 1440 (max. 8388607)
- 823 compressed objects within 9 object streams
- 38 named destinations out of 1000 (max. 500000)
- 168 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 2138 PDF objects out of 2487 (max. 8388607)
+ 1333 compressed objects within 14 object streams
+ 53 named destinations out of 1000 (max. 500000)
+ 186 words of extra memory for PDF output out of 10000 (max. 10000000)
 
