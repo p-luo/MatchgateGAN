@@ -1,2 +1,8 @@
 document code in the documented folder
 sort through prototypes folder and make files that i can edit vs ones that i should keep untouched
+
+12/18
+train bar and stripes for normal qgan, compare to wgan (to see differences in terms of trainings, and also test scalability)
+not tested: large-scale training with q generative model
+
+
