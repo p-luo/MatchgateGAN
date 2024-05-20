@@ -1,3 +1,5 @@
 # MatchgateGAN
 
-Peter's summer PRISE research project
+Peter's research project
+
+Hong-Ye Hu and Susanne F. Yelin
