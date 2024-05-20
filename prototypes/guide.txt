@@ -5,3 +5,9 @@ GANtricks - discriminator loss gets close to 0, so implemented some modification
 in particular: 
 
 learnIdentity - pprior samples from the real data; want G to learn identity mapping
+
+
+WGANMNIST: WGAN on MNIST dataset
+WGANbarsandstripes: WGAN on synthetic bars and stripes dataset
+
+WGANVQE: WGAN on VQE problem 

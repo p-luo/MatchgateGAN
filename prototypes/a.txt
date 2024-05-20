@@ -1,0 +1,80 @@
+g_lr = 1e-3 #Usually is like 10^{-3} to 10^{-4}
+alpha = 0.00005 #From WGAN paper
+c = 0.2 #From WGAN paper, effect of c on training???
+n_critic = 5 #From WGAN paper
+n_gen = 1
+
+clip_weights(f, c)
+
+#opt = Flux.setup(RMSProp(alpha), f)
+opt = Flux.setup(ADAM(), f)
+
+gLoss_vals = []
+criticLoss_vals = []
+mean_grads = []
+g_params = []
+critic_params = []
+#Keep track of avg discriminator output on real vs. fake data and make sure none of them gets too small or too large
+epochs = 2
+batch = train
+
+function trainG() #Does gradient descent on G, then saves its loss in gLoss_vals
+    ∇ = parametershift_grad()
+    push!(mean_grads, mean(∇))
+    dispatch!(-, g, ∇ * g_lr)
+    push!(gLoss_vals, gLoss())
+end
+
+function trainCritic() #Does one RMSProp step on critic, then saves its loss in criticLoss_vals
+    real = []
+    fake = []
+    for m in 1:batch
+        x = data_train[m] |> vec 
+        push!(real, Int.(x))
+        push!(fake, run_g(nbatch = 1)) #Find a better way to preprocess real and fake data...
+    end
+    data = collect(zip(real, fake)) 
+    Flux.train!(criticLoss, f, data, opt)
+    clip_weights(f, c)
+    s = 0
+    for x in data
+        s += criticLoss(f, x[1], x[2])        
+    end
+    push!(criticLoss_vals, s / batch)
+end
+
+function saveParams()
+    push!(g_params, parameters(g))
+    push!(critic_params, Flux.params(f))
+end
+
+mod = 100
+for i in 1:epochs #Training loop
+    t = time()
+    for _ in 1:n_critic
+        trainCritic()
+    end
+    for _ in 1:n_gen
+        trainG()
+    end
+    saveParams()
+    # if i % mod == 0
+    #     println("iteration $i done in: ", time() - t)
+    #     m = rand(1:train)
+    #     x = data_train[m] |> vec 
+    #     real = Int.(x)
+    #     fake = run_g(nbatch = 1)
+    #     println("Predicted distance between fake and real data: ", pred_WassersteinDist(f, real, fake))
+    #     #save data samples
+    # end
+end
+
+# g_epochs = 1
+# for q in 1:g_epochs
+#     t = time()
+#     trainG()
+#     push!(g_params, parameters(g))
+#     if q % 20 == 0
+#         println("iteration $q of additional training done in: ", time() - t)
+#     end
+# end
